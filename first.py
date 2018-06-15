@@ -26,5 +26,3 @@ csvWriter = csv.writer(plotFile)
 for current in masterlist:
     # csvWriter.writerow(masterlist)
     print(current)
-
-THis is stupid shit that needs undoing
